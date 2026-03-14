@@ -29,8 +29,8 @@ Certifique-se de ter o Python 3 instalado em seu sistema.
 1. **Clone o repositório** (se estiver no GitHub, caso contrário, baixe o arquivo `calcCientifica.py`):
 
    ```bash
-   git clone https://github.com/SpetsnazBR/calccientifica.git
-   cd YOUR_REPOSITORY_NAME
+   git clone https://github.com/SpetsnazBR/calcCientifica.git
+   cd NOME_DO_SEU_REPOSITÓRIO
    ```
 
 2. **Crie e ative um ambiente virtual** (recomendado):
