@@ -29,7 +29,7 @@ Certifique-se de ter o Python 3 instalado em seu sistema.
 1. **Clone o repositório** (se estiver no GitHub, caso contrário, baixe o arquivo `calcCientifica.py`):
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
+   git clone https://github.com/SpetsnazBR/calccientifica.git
    cd YOUR_REPOSITORY_NAME
    ```
 
@@ -64,11 +64,3 @@ Certifique-se de ter o Python 3 instalado em seu sistema.
 O projeto consiste em um único arquivo:
 
 - `calcCientifica.py`: Contém a implementação da interface gráfica e a lógica da calculadora científica.
-
-## Contribuição
-
-Contribuições são bem-vindas! Se você tiver alguma sugestão, melhoria ou encontrar um bug, sinta-se à vontade para abrir uma issue ou enviar um pull request.
-
-## Licença
-
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo `LICENSE` para mais detalhes (se você for adicionar um).
